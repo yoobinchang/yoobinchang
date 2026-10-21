@@ -1,15 +1,11 @@
 ![Yoobin's Dev Desk](yoobin_banner.png)
 
-<div align="center">
-
 # Hi, I'm Yoobin ☕️
 
 Computer Science @ Stony Brook University  
 Interested in software engineering, AI engineering
 
 [Email](mailto:cyoobin0504@gmail.com)
-
-</div>
 
 ---
 
