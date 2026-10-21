@@ -1,4 +1,4 @@
-![Yoobin's Dev Desk](./banner.png)
+![Yoobin's Dev Desk](yoobin_banner.png)
 
 <div align="center">
 
