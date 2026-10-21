@@ -105,6 +105,7 @@ Software development gives me room to do both, and I’m always excited to learn
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 <p><sub>Behind the scenes: probably debugging a class assignment and committing to a private repo.</sub></p>
+
 ---
 
 I'm always open to meet people, swap project ideas, and explore something worth building together!
