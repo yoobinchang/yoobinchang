@@ -24,8 +24,7 @@ Software development gives me room to do both, and I’m always excited to learn
       <img src="./assets/space-allocation.png" width="220" alt="Space Allocation">
     </td>
     <td>
-      <strong>Space Allocation</strong><br>
-      <sub>VIP Research Project at Stony Brook University · In progress</sub>
+      <strong>Space Allocation</strong> · VIP Research · In progress
       <p>🔒 Private repository</p>
       <p>
         Working with a team at Stony Brook to help students find available study spaces.
@@ -41,8 +40,7 @@ Software development gives me room to do both, and I’m always excited to learn
       </a>
     </td>
     <td>
-      <strong><a href="https://github.com/yoobinchang/neul-AI">Neul</a></strong>
-      <br><sub>In progress</sub>
+      <strong><a href="https://github.com/yoobinchang/neul-AI">Neul</a></strong> · In progress
       <p>
         An AI phone assistant I’m building with my team to support families
         when a caregiver can’t answer a call.
