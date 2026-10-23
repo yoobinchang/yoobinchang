@@ -27,7 +27,7 @@ Software development gives me room to do both, and I’m always excited to learn
       <strong>Space Allocation</strong> · VIP Research · In progress
       <p>🔒 Private repository</p>
       <p>
-        Working with a team at Stony Brook to help students find available study spaces.
+        Currently working in a VIP team at Stony Brook University to help students find available study spaces.
         We’re exploring occupancy sensing and building an app to make space availability easier to check.
       </p>
       <code>TypeScript</code> <code>React Native</code> <code>Expo</code>
@@ -61,7 +61,7 @@ Software development gives me room to do both, and I’m always excited to learn
         A recycling app that turns photos of waste into recycling guidance.
         Users earn points and grow a virtual 3D forest as they recycle.
       </p>
-      <p>🏆 <strong>Sustainability Track Winner — WiCS HopperHacks 2026</strong></p>
+      <p><strong>Sustainability Track Winner @ WiCS HopperHacks 2026</strong></p>
       <code>JavaScript</code> <code>React</code> <code>Three.js</code> <code>Gemini API</code>
     </td>
   </tr>
