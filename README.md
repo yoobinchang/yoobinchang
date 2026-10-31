@@ -2,7 +2,7 @@
 
 # Hi, I'm Yoobin ☕️
 
-Computer Science @ Stony Brook University  
+Computer Science + Applied Mathematics and Statistics @ Stony Brook University  
 Interested in software engineering, AI engineering
 
 [Email](mailto:cyoobin0504@gmail.com)
@@ -46,7 +46,7 @@ Software development gives me room to do both, and I’m always excited to learn
         when a caregiver can’t answer a call.
         We’re working on the call experience and an app for reviewing summaries and follow-ups.
       </p>
-      <code>TypeScript</code> <code>Next.js</code> <code>React</code>
+      <code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Retell AI</code> <code>Twilio</code> <code>Vercel</code>
     </td>
   </tr>
   <tr>
