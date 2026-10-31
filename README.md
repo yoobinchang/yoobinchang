@@ -30,7 +30,7 @@ Software development gives me room to do both, and I’m always excited to learn
         Currently working in a VIP team at Stony Brook University to help students find available study spaces.
         We’re exploring occupancy sensing and building an app to make space availability easier to check.
       </p>
-      <code>TypeScript</code> <code>React Native</code> <code>Expo</code>
+      <code>TypeScript</code> <code>React Native</code> <code>Expo</code> <code>Python</code> <code>ESP32</code>
     </td>
   </tr>
   <tr>
