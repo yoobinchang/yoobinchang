@@ -5,7 +5,7 @@
 Computer Science + Applied Mathematics and Statistics @ Stony Brook University  
 Interested in software engineering, AI engineering
 
-[Email](mailto:cyoobin0504@gmail.com) [LinkedIn](https://linkedin.com/in/yoobin-chang-328744382)
+[Email](mailto:cyoobin0504@gmail.com)    |    [LinkedIn](https://linkedin.com/in/yoobin-chang-328744382)
 
 ---
 
