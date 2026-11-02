@@ -111,3 +111,4 @@ Software development gives me room to do both, and I’m always excited to learn
 I'm always open to meet people, swap project ideas, and explore something worth building together!
 
 📫 [cyoobin0504@gmail.com](mailto:cyoobin0504@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/yoobin-chang-328744382)
